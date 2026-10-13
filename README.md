@@ -27,3 +27,26 @@ I'm a **Backend Software Engineer** based in Bekasi, Indonesia, focused on build
 </p>
 
 ---
+
+### 💻 Featured Projects
+
+* **[Pet Plus](https://github.com/Pet-Plus-Hackiv8)** — A mobile application designed for locating pet clinics and scheduling veterinary appointments. 
+* **[RentGo](https://github.com/1ndomaret/rentgo)** — A clean-architecture apartment rental REST API built with Go, Echo, and GORM.
+* **[BloodConnect](https://github.com/1ndomaret/bloodconnect)** — A dual-microservice blood donation platform featuring Dockerized services for donor matching and administration.
+* **[AI Chatbot Playground](https://github.com/1ndomaret/ai-chatbot-playground)** — A web-based chat playground built with Ruby on Rails, HAML, Bootstrap, and OpenAI API integration.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=1ndomaret&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ndomaret&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [Reyhansyah Fauzi](https://www.linkedin.com/in/reyhansyah)
+* **Location:** Bekasi, Indonesia
