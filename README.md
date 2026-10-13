@@ -32,7 +32,7 @@ I'm a **Backend Software Engineer** based in Bekasi, Indonesia, focused on build
 
 * **[Pet Plus](https://github.com/Pet-Plus-Hackiv8/fsjs-t1-final-server)** — A Web application designed for pet clinics and scheduling veterinary appointments. 
 * **[Gym App](https://github.com/1ndomaret/gym-cli)** — A clean-architecture Gym Membership REST API built with Go, Echo, and GORM.
-* **[BloodConnect](https://github.com/1ndomaret/blood-service)** — A dual-microservice blood donation platform featuring Dockerized services for donor matching and administration.
+* **[BloodConnect](https://github.com/1ndomaret/donor_service)** — A dual-microservice blood donation platform featuring Dockerized services for donor matching and administration.
 * **[AI Chatbot Playground](https://github.com/1ndomaret/message-worker)** — A web-based chat playground built with Ruby on Rails, HAML, Bootstrap, and OpenAI API integration.
 
 ---
